@@ -70,3 +70,26 @@
 	--backgroundtertiary: 		30, 35, 38;			/*	Background 4		-	default:	32,34,37		-	hex:	#202225		*/
 	--backgroundfloating: 		55, 65, 69;				/*	Background Elevated	-	default:	24,25,28		-	hex:	#18191c		*/
 }
+
+.theme-light:not(.custom-user-profile-theme),
+.theme-dark:not(.custom-user-profile-theme),
+.theme-amoled:not(.custom-user-profile-theme),
+.visual-refresh.theme-light:not(.custom-user-profile-theme),
+.visual-refresh.theme-dark:not(.custom-user-profile-theme),
+.visual-refresh.theme-amoled:not(.custom-user-profile-theme),
+.visual-refresh .theme-light:not(.custom-user-profile-theme),
+.visual-refresh .theme-dark:not(.custom-user-profile-theme),
+.visual-refresh .theme-amoled:not(.custom-user-profile-theme) {
+    --chat-background-default: rgb(var(--backgroundaccent)) !important;
+    --background-message-hover: rgba(var(--backgroundaccent), .5) !important;
+    --background-modifier-selected: rgb(var(var(--backgroundprimary))) !important;
+}  
+
+.searchBar__35e86 button {
+	background-color: var(--background-base-lower) !important;
+	color: var(--text-tertiary) !important;
+}
+
+.base__2b1f5 {
+    color: var(--text-tertiary)
+}
