@@ -91,7 +91,11 @@
 }
 
 .base__2b1f5 {
-    color: var(--text-tertiary)
+    color: var(--text-tertiary);
+}
+
+.numberBadge__2b1f5.base__2b1f5 {
+    color: #fff;
 }
 
 .item_b3f026.selected_b3f026.themed_b3f026 {
