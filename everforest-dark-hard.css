@@ -80,7 +80,7 @@
 .visual-refresh .theme-light:not(.custom-user-profile-theme),
 .visual-refresh .theme-dark:not(.custom-user-profile-theme),
 .visual-refresh .theme-amoled:not(.custom-user-profile-theme) {
-    --chat-background-default: rgb(var(--backgroundaccent)) !important;
+    --chat-background-default: rgb(var(--backgroundprimary)) !important;
     --background-message-hover: rgba(var(--backgroundaccent), .5) !important;
     --background-modifier-selected: rgb(var(var(--backgroundprimary))) !important;
 }  
