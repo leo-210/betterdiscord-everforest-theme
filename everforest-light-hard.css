@@ -93,3 +93,7 @@
 .base__2b1f5 {
     color: var(--text-tertiary)
 }
+
+.numberBadge__2b1f5.base__2b1f5 {
+    color: var(--backgroundprimary)
+}
