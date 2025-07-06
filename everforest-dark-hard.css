@@ -60,7 +60,7 @@
 	--textbright: 			157, 169, 160;			/*	Text Color 3		-	default:	185,187,190		-	hex:	#b9bbbe		*/
 	--textdark: 			133, 146, 137;			/*	Text Color 4		-	default:	142,146,151		-	hex:	#8e9297		*/
 	--textdarker: 			122, 132, 120;			/*	Text Color 5		-	default:	114,118,125		-	hex:	#72767d		*/
-	--textdarkest: 			122, 132, 120;			/*	Text Color 6		-	default:	79,84,92		-	hex:	#4f545c		*/
+	--textdarkest: 			79, 91, 88;			/*	Text Color 6		-	default:	79,84,92		-	hex:	#4f545c		*/
 	
 	--backgroundcode: 		55, 65, 69;			/*	Background Code		-	default:	60,62,79		-	hex:	#3c3e4f		*/
 	--backgroundaccent: 		79, 91, 88;			/*	Background Accent	-	default:	64,68,75		-	hex:	#40444b		*/
